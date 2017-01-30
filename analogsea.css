@@ -1,0 +1,72 @@
+body {
+  background: #298eea;
+  padding-top: 80px;
+}
+
+main {
+border: 1px solid black;
+width: 400px;
+height:480px;
+padding-right: 40px;
+padding-left: 40px;
+margin-left:auto;
+margin-right: auto;
+background-color: white;
+margin-top: 60px;
+}
+
+h1 {
+  padding-left: 100px;
+  font-size: 50px;
+}
+
+button {
+  width: 320px;
+  background-color: #15CD72;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding:15px;
+  height: 55px;
+  border: 2px ;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: green;
+}
+
+input {
+  width:320px;
+  height: 30px;
+  border: 2px solid grey;
+  padding: 15px;
+}
+.forgot-password {
+  text-align: center;
+  color: grey;
+ margin-top:3px;
+}
+
+.forgot-password a {
+  color:grey;
+}
+
+.Already {
+  text-align: center;
+  color: white;
+  margin-top: 35px;
+}
+
+.Already a {
+  color:white;
+}
+
+h1 {
+  font-family: 'roboto', serif;
+  font-weight: 100;
+}
+
+img {
+  height: 35px;
+  padding-left: 500px;
+}
